@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jainkavya738/DSA-check/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/jainkavya738/DSA-check/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jainkavya738/DSA-check/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jainkavya738/DSA-check/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/jainkavya738/DSA-check/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jainkavya738/DSA-check/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/jainkavya738/DSA-check/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
@@ -90,9 +92,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jainkavya738/DSA-check/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jainkavya738/DSA-check/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/jainkavya738/DSA-check/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jainkavya738/DSA-check/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jainkavya738/DSA-check/tree/master/0210-course-schedule-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

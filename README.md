@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/jainkavya738/DSA-check/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jainkavya738/DSA-check/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/jainkavya738/DSA-check/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/jainkavya738/DSA-check/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/jainkavya738/DSA-check/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

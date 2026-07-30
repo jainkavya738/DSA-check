@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jainkavya738/DSA-check/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jainkavya738/DSA-check/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jainkavya738/DSA-check/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/jainkavya738/DSA-check/tree/master/0403-frog-jump) |
 | [0733-flood-fill](https://github.com/jainkavya738/DSA-check/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jainkavya738/DSA-check/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jainkavya738/DSA-check/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jainkavya738/DSA-check/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jainkavya738/DSA-check/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/jainkavya738/DSA-check/tree/master/0403-frog-jump) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |

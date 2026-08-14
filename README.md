@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jainkavya738/DSA-check/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jainkavya738/DSA-check/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/jainkavya738/DSA-check/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3819-rotate-non-negative-elements](https://github.com/jainkavya738/DSA-check/tree/master/3819-rotate-non-negative-elements) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/jainkavya738/DSA-check/tree/master/2390-removing-stars-from-a-string) |
+| [3819-rotate-non-negative-elements](https://github.com/jainkavya738/DSA-check/tree/master/3819-rotate-non-negative-elements) |
 ## Minimax
 |  |
 | ------- |

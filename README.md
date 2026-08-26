@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/jainkavya738/DSA-check/tree/master/0424-longest-repeating-character-replacement) |
 | [2390-removing-stars-from-a-string](https://github.com/jainkavya738/DSA-check/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/jainkavya738/DSA-check/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jainkavya738/DSA-check/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainkavya738/DSA-check/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/jainkavya738/DSA-check/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jainkavya738/DSA-check/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |

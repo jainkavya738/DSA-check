@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jainkavya738/DSA-check/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainkavya738/DSA-check/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jainkavya738/DSA-check/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jainkavya738/DSA-check/tree/master/1248-count-number-of-nice-subarrays) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/jainkavya738/DSA-check/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/jainkavya738/DSA-check/tree/master/3819-rotate-non-negative-elements) |
 ## Stack
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/jainkavya738/DSA-check/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jainkavya738/DSA-check/tree/master/1248-count-number-of-nice-subarrays) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jainkavya738/DSA-check/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
 |  |
@@ -168,17 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/jainkavya738/DSA-check/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jainkavya738/DSA-check/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainkavya738/DSA-check/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jainkavya738/DSA-check/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/jainkavya738/DSA-check/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainkavya738/DSA-check/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jainkavya738/DSA-check/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/jainkavya738/DSA-check/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jainkavya738/DSA-check/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jainkavya738/DSA-check/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jainkavya738/DSA-check/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |

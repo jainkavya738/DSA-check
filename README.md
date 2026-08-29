@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/jainkavya738/DSA-check/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jainkavya738/DSA-check/tree/master/1248-count-number-of-nice-subarrays) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/jainkavya738/DSA-check/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3618-split-array-by-prime-indices](https://github.com/jainkavya738/DSA-check/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jainkavya738/DSA-check/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization

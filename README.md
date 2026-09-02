@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/jainkavya738/DSA-check/tree/master/3663-find-the-least-frequent-digit) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/jainkavya738/DSA-check/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/jainkavya738/DSA-check/tree/master/3819-rotate-non-negative-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jainkavya738/DSA-check/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/jainkavya738/DSA-check/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jainkavya738/DSA-check/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/jainkavya738/DSA-check/tree/master/3663-find-the-least-frequent-digit) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jainkavya738/DSA-check/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |

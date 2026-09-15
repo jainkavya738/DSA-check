@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/jainkavya738/DSA-check/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/jainkavya738/DSA-check/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jainkavya738/DSA-check/tree/master/1248-count-number-of-nice-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jainkavya738/DSA-check/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -213,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3663-find-the-least-frequent-digit](https://github.com/jainkavya738/DSA-check/tree/master/3663-find-the-least-frequent-digit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jainkavya738/DSA-check/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jainkavya738/DSA-check/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

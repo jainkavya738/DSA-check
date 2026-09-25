@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jainkavya738/DSA-check/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/jainkavya738/DSA-check/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jainkavya738/DSA-check/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/jainkavya738/DSA-check/tree/master/0198-house-robber) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jainkavya738/DSA-check/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/jainkavya738/DSA-check/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainkavya738/DSA-check/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jainkavya738/DSA-check/tree/master/0904-fruit-into-baskets) |

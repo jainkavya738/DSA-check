@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jainkavya738/DSA-check/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jainkavya738/DSA-check/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/jainkavya738/DSA-check/tree/master/0877-stone-game) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jainkavya738/DSA-check/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/jainkavya738/DSA-check/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jainkavya738/DSA-check/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/jainkavya738/DSA-check/tree/master/0231-power-of-two) |

@@ -233,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jainkavya738/DSA-check/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jainkavya738/DSA-check/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

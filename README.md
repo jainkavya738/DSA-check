@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jainkavya738/DSA-check/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/jainkavya738/DSA-check/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/jainkavya738/DSA-check/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/jainkavya738/DSA-check/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jainkavya738/DSA-check/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jainkavya738/DSA-check/tree/master/0930-binary-subarrays-with-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jainkavya738/DSA-check/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/jainkavya738/DSA-check/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |

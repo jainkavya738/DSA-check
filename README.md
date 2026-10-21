@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/jainkavya738/DSA-check/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/jainkavya738/DSA-check/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/jainkavya738/DSA-check/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/jainkavya738/DSA-check/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jainkavya738/DSA-check/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/jainkavya738/DSA-check/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0746-min-cost-climbing-stairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jainkavya738/DSA-check/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jainkavya738/DSA-check/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/jainkavya738/DSA-check/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/jainkavya738/DSA-check/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/jainkavya738/DSA-check/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jainkavya738/DSA-check/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jainkavya738/DSA-check/tree/master/0877-stone-game) |
@@ -248,11 +250,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/jainkavya738/DSA-check/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/jainkavya738/DSA-check/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jainkavya738/DSA-check/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/jainkavya738/DSA-check/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/jainkavya738/DSA-check/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jainkavya738/DSA-check/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
